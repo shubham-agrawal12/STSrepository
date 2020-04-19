@@ -1,0 +1,32 @@
+html,body{
+background-image: url('../images/console.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: "Times New Roman", Times, serif;
+}
+
+
+.mycustom {
+
+	
+	color: white;
+	font-size: 44;
+	font-weight: bold;
+	text-align: center;
+	min-height: 20px;
+}
+.card{
+height: 500px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+align-content: left;
+background-color: green !important;
+}
+
+.card-header h3{
+color: white;
+}
+
+
